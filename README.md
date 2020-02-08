@@ -1,7 +1,8 @@
-# household-service
+# 快件极速查
+tel：+86 13323819771    email：wllemhq5@21cn.com
 一、Privacy policy
 
-household service respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, household service will use and disclose your personal information in accordance with this privacy policy. Guessy ++ will treat these information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, household service will not disclose or provide such information to any third party without your prior permission. household service will update this privacy policy from time to time. When you agree to the household service service usage agreement, you are deemed to have agreed to all contents of this privacy policy. This privacy policy is an integral part of the household service service usage agreement. 
+快件极速查 respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, household service will use and disclose your personal information in accordance with this privacy policy. Guessy ++ will treat these information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, household service will not disclose or provide such information to any third party without your prior permission. household service will update this privacy policy from time to time. When you agree to the household service service usage agreement, you are deemed to have agreed to all contents of this privacy policy. This privacy policy is an integral part of the household service service usage agreement. 
 1. Scope of application 
 
 a) When you register for the household service account, you provide the personal registration information required by household service； 
