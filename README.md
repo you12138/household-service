@@ -1,97 +1,86 @@
-# 快件极速查
-tel：+86 13323819771    email：wllemhq5@21cn.com
+# 美佳坚果铺子
+tel：+86 138276662837    email：hggsyes@21cn.com
 一、Privacy policy
 
-快件极速查 respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, household service will use and disclose your personal information in accordance with this privacy policy. Guessy ++ will treat these information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, household service will not disclose or provide such information to any third party without your prior permission. household service will update this privacy policy from time to time. When you agree to the household service service usage agreement, you are deemed to have agreed to all contents of this privacy policy. This privacy policy is an integral part of the household service service usage agreement. 
-1. Scope of application 
+美佳坚果铺子尊重并保护服务所有用户的隐私。为了向您提供更准确和个性化的服务，家庭服务将根据本隐私政策使用和披露您的个人信息。Guessy ++将高度努力和谨慎地对待这些信息。除非本隐私政策另有规定，否则未经您的事先许可，家庭服务将不会向任何第三方披露或提供此类信息。家庭服务将不时更新本隐私政策。当您同意家政服务使用协议时，即被视为您同意本隐私政策的所有内容。该隐私政策是家庭服务使用协议的组成部分。
 
-a) When you register for the household service account, you provide the personal registration information required by household service； 
+适用范围
+a）在注册家庭服务帐户时，您提供了家庭服务所需的个人注册信息；
 
-b) When you use household service network service or visit household service platform web page, household service automatically receives and records the information on your browser and computer, including but not limited to your IP address, type of browser, language used, date and time of access, software and hardware characteristic information and web page record required by you； 
+b）当您使用家庭服务网络服务或访问家庭服务平台网页时，家庭服务会自动在浏览器和计算机上接收并记录信息，包括但不限于您的IP地址，浏览器类型，使用的语言，日期和时间您所需的访问权限，软件和硬件特征信息以及网页记录；
 
-c) Guessy ++ user personal data obtained from business partners through legal means。 
+c）通过合法手段从业务合作伙伴处获得的Guessy ++用户个人数据。
 
-You understand and agree that the following information does not apply to this privacy policy： 
+您理解并同意以下信息不适用于本隐私政策：
 
-a) The keyword information you entered when using the search service provided by the household service platform； 
+a）您在使用家庭服务平台提供的搜索服务时输入的关键字信息；
 
-b) Information and data collected by household service that you publish in household service, including but not limited to participation in activities, transaction information and evaluation details； 
+b）您在家庭服务中发布的由家庭服务收集的信息和数据，包括但不限于参与活动，交易信息和评估详细信息；
 
-c) Violation of the law or the household service rule and the measures household service has taken against you。 
+c）违反法律或家庭服务规则以及家庭服务对您采取的措施。
 
-2. Use the information 
+使用信息
+a）除非事先获得您的许可，否则第三方服务不会出现在任何不相关的第三方提供，出售，出租，共享或交易您的个人信息上，或者第三方或家庭服务（包括家庭服务关联公司）单独或一起使用为您提供服务，并且在服务结束时，将被禁止访问所有信息，包括之前的信息。
 
-a) household service won't come to any irrelevant third party to provide, sell, rent, share or trade your personal information, unless get your permission in advance, or the third party and household service (including household service affiliates) alone or together to provide the service for you, and at the end of the service, it will be banned from access to be able to access all the information including its before. 
+b）家庭服务不允许任何第三方以任何方式免费收集，编辑，出售或分发您的个人信息。从事上述活动的任何家庭服务平台用户均有权在发现后终止与该用户的服务协议。
 
-b) household service does not allow any third party to collect, edit, sell or distribute your personal information for free by any means. Any household service platform user who engages in the above activities shall have the right to terminate the service agreement with such user upon discovery. 
+c）为了服务用户，家庭服务可以通过使用您的个人信息为您提供您感兴趣的信息，包括但不限于向您发送产品和服务信息，或与家庭服务合作伙伴共享信息，以便他们可以将有关其产品和服务的信息发送给您（后者需要您的事先同意）。
 
-c) For the purpose of serving users, household service may provide you with information of interest to you through the use of your personal information, including but not limited to sending product and service information to you, or sharing information with household service partners so that they can send information about their products and services to you (the latter requires your prior consent). 
+信息披露
+在以下情况下，家庭服务将根据您的个人意愿或法律披露您的全部或部分个人信息：a）在您事先同意的情况下向第三方披露；
 
-3. Information disclosure 
+b）要提供所需的产品和服务，您必须与第三方共享您的个人信息；
 
-Under the following circumstances, household service will disclose all or part of your personal information in accordance with your personal wishes or laws： 
-a) Disclosure to a third party with your prior consent； 
+c）依照法律的有关规定或应行政或司法机关的要求向第三方，行政或司法机关公开；
 
-b) To provide the products and services you require, you must share your personal information with third parties； 
+d）如果您违反了中国的有关法律法规或猜想的++服务协议或相关规则，则需要向第三方披露；
 
-c) Disclosure shall be made to a third party or an administrative or judicial institution in accordance with the relevant provisions of law or at the request of an administrative or judicial institution；
+e）如果您是合格的知识产权投诉人，并且已提出投诉，则应被诉人的要求将其披露给被诉人，以使双方可以解决可能的权利纠纷；
 
-d) If you violate relevant Chinese laws and regulations or guessy ++ service agreement or relevant rules, you need to disclose to a third party；
+f）在家庭服务平台上进行的交易中，家庭服务有权决定向用户提供交易对手的联系信息和其他必要信息，以便利交易的完成或争端的解决（如果有任何一方）履行或部分履行其交易义务和信息披露请求。
 
- 
-e) If you are a qualified intellectual property complainant and have filed a complaint, disclose it to the respondent at the request of the respondent so that the parties may settle a possible rights dispute；
+g）家庭服务根据法律，法规或网站政策认为适当的其他披露。
 
-f) In a transaction created on household service platform, household service shall have the right to decide to provide the user with the contact information of the counterparty and other necessary information to facilitate the completion of the transaction or the settlement of disputes, if either party performs or partially performs its transaction obligations and requests for information disclosure.  
+信息存储与交换
+家庭服务收集的与您有关的信息和数据将存储在家庭服务和/或其附属公司的服务器上，并且可能会传输到您所在的国家或地区或家庭服务收集信息和数据的位置。可以在国外访问，存储和显示。）5. Cookies的使用
 
-g) Other disclosure as deemed appropriate by household service in accordance with laws, regulations or website policies.  
+a）如果您不拒绝cookie，家庭服务将在您的计算机上设置或访问cookie，以便您可以登录或使用依赖cookie的家庭服务平台服务或功能。Cookies可用于家庭服务，为您提供更周到和个性化的服务，包括促销服务。b）您有权接受或拒绝cookie。您可以通过修改浏览器设置来拒绝Cookie。但是，如果您选择拒绝cookie，则可能无法登录或使用依赖cookie的家庭服务Web服务或功能。
 
-4. Information storage and exchange  
+c）通过家庭服务设置的cookie获得的信息将适用于本政策。
 
-The information and data collected by household service concerning you will be stored on the servers of household service and/or its affiliates, and may be transmitted to the country or region where you are located or the location where household service collects the information and data and be accessed, stored and displayed abroad. ）
-5. The use of cookies  
+信息安全
+a）家庭服务帐号具有安全保护功能，请妥善保管您的用户名和密码信息。家庭服务将通过加密用户密码和其他安全措施来确保您的信息不会丢失，滥用或更改。尽管有上述安全措施，但也请注意，信息网络上没有“完美的安全措施”。
 
-a) If you do not reject cookies, household service will set or access cookies on your computer so that you can log in or use household service platform services or functions that depend on cookies. Cookies can be used by household service to provide you with more thoughtful and personalized services, including promotion services.  b) You have the right to accept or reject cookies. You can reject cookies by modifying your browser Settings. However, if you choose to reject cookies, you may not be able to log in or use household service web services or functions that rely on cookies. 
+b）当您使用家庭服务网络服务进行在线交易时，您将不可避免地向交易对手或潜在交易对手披露您的个人信息，例如联系信息或邮政地址。请妥善保护您的个人信息，仅在必要时才提供给他人。如果发现您的个人信息泄漏，特别是家庭服务用户名和密码泄漏，请立即联系家庭服务客户服务，以便家庭服务可以采取相应措施。
 
-c) Information obtained through cookies set by household service will apply to this policy.  
+二，使用条款
 
-6. Information security  
+家政服务的所有权和经营权归拥有家政服务平台的公司所有。在这些服务条款中，我们称为“家庭服务公司”，有时也称为“我们”。使用滴答表产品和服务将被视为您同意以下使用条款。1，仅供个人使用
 
-a)The household service account has security protection function, please keep your username and password information properly. household service will ensure that your information is not lost, abused or altered by encryption of user passwords and other security measures. Despite the aforementioned security measures, please also note that there is no "perfect security measures" on the information network.  
+家庭服务仅用于个人非商业用途。出售家庭服务或任何与家庭服务有关或衍生自家庭服务的数据，服务或软件，必须获得家庭服务公司的许可。如果您对家政服务有任何意见或建议，请随时告诉我们。请注意，如果您这样做，您还将获得免费使用以及向家庭服务用户和家庭服务（或第三方软件）第三方提供附加建议或建议的权利。2，用户隐私政策
 
-b) When you use the household service web service to conduct online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others if necessary. If you find your personal information leaking, especially household service user name and password leaking, please contact household service customer service immediately so that household service can take corresponding measures.
+尊重用户隐私是家庭服务的基本政策。因此，除非在以下情况下家庭服务公司认为有必要真诚地披露这些信息，否则家庭服务公司将不会发布，编辑或披露用户的注册信息或存储在家庭服务公司服务中的非公开内容。为了遵守相关法律法规，包括在国家有关部门的询问下，
 
- 
-二、Terms of use
+（2）提供用户通过家庭服务发布的信息内容及其发布时间，互联网地址或域名。
 
-The ownership and operation rights of household service are owned by the company that owns the household service platform. In these terms of service, we are referred to as "household service company "and sometimes as" we ". Use of tick-list products and services will be deemed as your consent The following terms of use.
-1、For personal use only
+（3）按照家庭服务计划，
 
-household service is for personal non-commercial use only. To sell household service, or any data, services, or software related to or derived from household service, you must obtain the permission of household service company. If you have any comments on household service or Suggestions on how to improve it, please feel free to let us know. Note that if you do this, you will also be granted free use and additions to users of household service and third parties in household service(or third party software) The right to suggest or advise.
-2、User privacy policy
+（4）维护家庭服务公司的商标及其他知识产权
 
-Respect for user privacy is a basic policy of household service. Therefore,household service company will not publish, edit or disclose the registration information of users or the non-public contents stored in household service company's services unless household service company considers it necessary to disclose such information in good faith in the following circumstances
-（1）To comply with relevant laws and regulations, including when inquiring by relevant state authorities,
+（5）在紧急情况下，我们将不遗余力地保护用户和公众的隐私和安全。
 
-（2）Provide the information content published by users through household service and its publication time, Internet address or domain name.
+（6）不容忍张贴令人反感的内容或滥用用户，用户将被禁止。
 
-（3）Follow the household service service program,
+家庭服务公司认为必要的其他情况。
 
-（4）Maintain the trademark and other intellectual property rights of household service company
+3，服务变更
 
-（5）In case of emergency, we will spare no efforts to protect the privacy and safety of users and the public.
+家庭服务保留在不通知用户的情况下随时更改，中断或终止服务的权利。用户接受报价单公司更改，中断或终止服务的权利。家庭服务公司对用户或任何第三方概不负责。
 
-（6）There is no tolerance for Posting objectionable content or abusing users, and users will be banned.
+4，责任限制
 
-household service Other circumstances deemed necessary by the company.
+用户理解并同意下载和使用家庭服务以及与家庭服务一起提供或通过家庭服务提供的所有第三方软件，后果自负，并且出于下载或使用家庭服务和此类第三方软件的目的，用户应对任何损坏或数据承担全部责任。乙方的软件对计算机系统造成的损失。在适用法律的范围内，最大的家庭服务公司明确表示不提供任何其他类型的担保，无论明示还是暗示，包括但不限于适销性，适用性，可靠性，准确性，完整性，无病毒，以及毫无疑问，适用法律范围内的任何默示担保和责任允许最大的家庭服务公司及其对以下人士的许可：
 
-3、Service changes
+5，安全性
 
-household service reserves the right to change, interrupt or terminate the service at any time without notifying users. The user accepts the right of tick list company to change, interrupt or terminate the service. household service company shall not be responsible to the user or any third party.
-
-4、Limitation of liability
-
-Users understand and agree to download and use household service and all third party software provided with or through household service at their own risk and for the purpose of downloading or using household service and such third party software Users shall take full responsibility for any damage or data loss caused by party b's software to the computer system. In the range of the applicable laws allow maximum household service company made it clear that does not provide any other type of guarantee, whether express or implied, including but not limited to, marketability, applicability, reliability, accuracy, completeness, no virus, and no mistake any implied warranty and liability within the scope of the applicable laws allow maximum, household service companies and their permission to one who is, won't make the following statement or guarantee to you.
-
-5、security
-
-The user agrees to protect and safeguard the interests of household service company, and is responsible for paying the lawyer's fee, damage compensation fee, government penalty fee and other infringement compensation fee caused by the user's violation of the service terms or other service terms of household service company.
+用户同意保护和维护家政服务公司的利益，并负责支付因用户违反家政服务条款或其他服务条款而引起的律师费，损害赔偿费，政府罚款费和其他侵权赔偿费。服务公司。
