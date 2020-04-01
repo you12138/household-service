@@ -1,86 +1,70 @@
-# 美佳坚果铺子
 tel：+86 138276662837    email：hggsyes@21cn.com
-一、Privacy policy
+The app respects and protects the privacy rights of all users of the service. In order to provide you with more accurate and personalized services, the app will use and disclose your personal information in accordance with this privacy policy. However, the application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, the app will not disclose or provide such information to third parties without your prior permission. The app will update this privacy policy from time to time. When you agree to the application service usage agreement, you are deemed to have agreed to the entire content of this privacy policy. This privacy policy is an integral part of the application service usage agreement.
 
-美佳坚果铺子尊重并保护服务所有用户的隐私。为了向您提供更准确和个性化的服务，家庭服务将根据本隐私政策使用和披露您的个人信息。Guessy ++将高度努力和谨慎地对待这些信息。除非本隐私政策另有规定，否则未经您的事先许可，家庭服务将不会向任何第三方披露或提供此类信息。家庭服务将不时更新本隐私政策。当您同意家政服务使用协议时，即被视为您同意本隐私政策的所有内容。该隐私政策是家庭服务使用协议的组成部分。
+1. Scope of application
 
-适用范围
-a）在注册家庭服务帐户时，您提供了家庭服务所需的个人注册信息；
+(a) the personal registration information you provide according to the requirements of the application when you register the account of the app;
 
-b）当您使用家庭服务网络服务或访问家庭服务平台网页时，家庭服务会自动在浏览器和计算机上接收并记录信息，包括但不限于您的IP地址，浏览器类型，使用的语言，日期和时间您所需的访问权限，软件和硬件特征信息以及网页记录；
+(b) application in your use of this web service, or access to this web application platform, the application automatically receive and record your browser and computer information, including but not limited to your IP address, browser type, the use of language, visit date and time, software and hardware feature information and the page you need to record data such as;
 
-c）通过合法手段从业务合作伙伴处获得的Guessy ++用户个人数据。
+(c) personal data of users obtained by the app through legal channels from business partners.
 
-您理解并同意以下信息不适用于本隐私政策：
+You understand and agree that the following information does not apply to this privacy policy:
 
-a）您在使用家庭服务平台提供的搜索服务时输入的关键字信息；
+(a) the keyword information you enter when using the search service provided by the application platform;
 
-b）您在家庭服务中发布的由家庭服务收集的信息和数据，包括但不限于参与活动，交易信息和评估详细信息；
+(b) information and data collected by the app and released by you in the app, including but not limited to participation in activities, transaction information and evaluation details;
 
-c）违反法律或家庭服务规则以及家庭服务对您采取的措施。
+(c) ACTS in violation of the law or the rules of this application and the measures that the application has taken against you.
 
-使用信息
-a）除非事先获得您的许可，否则第三方服务不会出现在任何不相关的第三方提供，出售，出租，共享或交易您的个人信息上，或者第三方或家庭服务（包括家庭服务关联公司）单独或一起使用为您提供服务，并且在服务结束时，将被禁止访问所有信息，包括之前的信息。
+2. Use of information
 
-b）家庭服务不允许任何第三方以任何方式免费收集，编辑，出售或分发您的个人信息。从事上述活动的任何家庭服务平台用户均有权在发现后终止与该用户的服务协议。
+(a) the application won't come to any irrelevant third party to provide, sell, rent, share or trade your personal information, unless get your permission in advance, or the third party and the application of this application (including affiliates) alone or together to provide the service for you, and at the end of the service, it will be banned from access to be able to access all the information including its before.
 
-c）为了服务用户，家庭服务可以通过使用您的个人信息为您提供您感兴趣的信息，包括但不限于向您发送产品和服务信息，或与家庭服务合作伙伴共享信息，以便他们可以将有关其产品和服务的信息发送给您（后者需要您的事先同意）。
+(b) the app also does not allow any third party to collect, edit, sell or disseminate your personal information by any means. If any user of the application platform engages in the above activities, the application shall have the right to terminate the service agreement with such user immediately upon discovery.
 
-信息披露
-在以下情况下，家庭服务将根据您的个人意愿或法律披露您的全部或部分个人信息：a）在您事先同意的情况下向第三方披露；
+(c) for the purpose of service users, the application may be through the use of your personal information, provide you with the information you have interested in, including but not limited to sent you product and service information, or to share information with this application partners so that they send you information about its products and services, which need your prior consent).
 
-b）要提供所需的产品和服务，您必须与第三方共享您的个人信息；
+3. Information disclosure
 
-c）依照法律的有关规定或应行政或司法机关的要求向第三方，行政或司法机关公开；
+Under the following circumstances, the application will disclose your personal information in whole or in part according to your personal desire or legal requirements:
 
-d）如果您违反了中国的有关法律法规或猜想的++服务协议或相关规则，则需要向第三方披露；
+(a) disclose to a third party with your prior consent;
 
-e）如果您是合格的知识产权投诉人，并且已提出投诉，则应被诉人的要求将其披露给被诉人，以使双方可以解决可能的权利纠纷；
+(b) you must share your personal information with third parties in order to provide the products and services you require;
 
-f）在家庭服务平台上进行的交易中，家庭服务有权决定向用户提供交易对手的联系信息和其他必要信息，以便利交易的完成或争端的解决（如果有任何一方）履行或部分履行其交易义务和信息披露请求。
+(c) to disclose to a third party or to an administrative or judicial body in accordance with the relevant provisions of law or at the request of an administrative or judicial body;
 
-g）家庭服务根据法律，法规或网站政策认为适当的其他披露。
+(d) if you violate relevant laws and regulations of China or this application service agreement or relevant rules, you need to disclose to a third party;
 
-信息存储与交换
-家庭服务收集的与您有关的信息和数据将存储在家庭服务和/或其附属公司的服务器上，并且可能会传输到您所在的国家或地区或家庭服务收集信息和数据的位置。可以在国外访问，存储和显示。）5. Cookies的使用
+(e) if you are a qualified intellectual property complainant and have filed a complaint, you shall, at the request of the respondent, disclose it to the respondent so that both parties can settle a possible dispute over rights;
 
-a）如果您不拒绝cookie，家庭服务将在您的计算机上设置或访问cookie，以便您可以登录或使用依赖cookie的家庭服务平台服务或功能。Cookies可用于家庭服务，为您提供更周到和个性化的服务，包括促销服务。b）您有权接受或拒绝cookie。您可以通过修改浏览器设置来拒绝Cookie。但是，如果您选择拒绝cookie，则可能无法登录或使用依赖cookie的家庭服务Web服务或功能。
+(f) in a transaction created on the application platform, if either party of the transaction performs or partially performs its transaction obligations and makes a request for information disclosure, the application shall have the right to decide to provide the user with the contact information of the other party of the transaction and other necessary information to facilitate the completion of the transaction or the resolution of the dispute.
 
-c）通过家庭服务设置的cookie获得的信息将适用于本政策。
+(g) other disclosures that the application deems appropriate in accordance with laws, regulations or website policies.
 
-信息安全
-a）家庭服务帐号具有安全保护功能，请妥善保管您的用户名和密码信息。家庭服务将通过加密用户密码和其他安全措施来确保您的信息不会丢失，滥用或更改。尽管有上述安全措施，但也请注意，信息网络上没有“完美的安全措施”。
+4. Information storage and exchange
 
-b）当您使用家庭服务网络服务进行在线交易时，您将不可避免地向交易对手或潜在交易对手披露您的个人信息，例如联系信息或邮政地址。请妥善保护您的个人信息，仅在必要时才提供给他人。如果发现您的个人信息泄漏，特别是家庭服务用户名和密码泄漏，请立即联系家庭服务客户服务，以便家庭服务可以采取相应措施。
+The information and data collected by the app about you will be stored on the servers of the app and/or its affiliates and may be sent to and accessed, stored and displayed outside the country, region or country where the app collects the information and data.
 
-二，使用条款
+5. Use of cookies
 
-家政服务的所有权和经营权归拥有家政服务平台的公司所有。在这些服务条款中，我们称为“家庭服务公司”，有时也称为“我们”。使用滴答表产品和服务将被视为您同意以下使用条款。1，仅供个人使用
+(a) if you do not refuse to accept cookies, the application will set or access cookies on your computer so that you can log in or use the services or functions of the application platform that depend on cookies. The application USES cookies to provide you with more thoughtful personalized services, including promotional services.
 
-家庭服务仅用于个人非商业用途。出售家庭服务或任何与家庭服务有关或衍生自家庭服务的数据，服务或软件，必须获得家庭服务公司的许可。如果您对家政服务有任何意见或建议，请随时告诉我们。请注意，如果您这样做，您还将获得免费使用以及向家庭服务用户和家庭服务（或第三方软件）第三方提供附加建议或建议的权利。2，用户隐私政策
+(b) you have the option to accept or reject cookies. You can refuse to accept cookies by modifying your browser Settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use the network services or functions of the application that rely on cookies.
 
-尊重用户隐私是家庭服务的基本政策。因此，除非在以下情况下家庭服务公司认为有必要真诚地披露这些信息，否则家庭服务公司将不会发布，编辑或披露用户的注册信息或存储在家庭服务公司服务中的非公开内容。为了遵守相关法律法规，包括在国家有关部门的询问下，
+(c) this policy applies to information obtained through cookies set by the application.
 
-（2）提供用户通过家庭服务发布的信息内容及其发布时间，互联网地址或域名。
+6. Information security
 
-（3）按照家庭服务计划，
+(a) this application account has security protection function, please keep your user name and password information properly. The application will ensure that your information is not lost, abused or altered by security measures such as encrypting the user's password. Despite the above security measures, please note that there is no "perfect security measure" on the information network.
 
-（4）维护家庭服务公司的商标及其他知识产权
+(b) when using the application network service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only if necessary. If you find that your personal information is leaked, especially the user name and password of the app are leaked, please contact the customer service immediately so that the app can take corresponding measures.
 
-（5）在紧急情况下，我们将不遗余力地保护用户和公众的隐私和安全。
+7. Changes to this privacy policy
 
-（6）不容忍张贴令人反感的内容或滥用用户，用户将被禁止。
+(a) if we decide to change our privacy policy, we will post such changes in this policy, on our website and where we deem appropriate so that you can understand how we collect and use your personal information, who can access it, and under what circumstances we may disclose it.
 
-家庭服务公司认为必要的其他情况。
+(b) the company reserves the right to modify this policy at any time, so please check frequently. In case of any major change to this policy, the company will inform you through the website.
 
-3，服务变更
-
-家庭服务保留在不通知用户的情况下随时更改，中断或终止服务的权利。用户接受报价单公司更改，中断或终止服务的权利。家庭服务公司对用户或任何第三方概不负责。
-
-4，责任限制
-
-用户理解并同意下载和使用家庭服务以及与家庭服务一起提供或通过家庭服务提供的所有第三方软件，后果自负，并且出于下载或使用家庭服务和此类第三方软件的目的，用户应对任何损坏或数据承担全部责任。乙方的软件对计算机系统造成的损失。在适用法律的范围内，最大的家庭服务公司明确表示不提供任何其他类型的担保，无论明示还是暗示，包括但不限于适销性，适用性，可靠性，准确性，完整性，无病毒，以及毫无疑问，适用法律范围内的任何默示担保和责任允许最大的家庭服务公司及其对以下人士的许可：
-
-5，安全性
-
-用户同意保护和维护家政服务公司的利益，并负责支付因用户违反家政服务条款或其他服务条款而引起的律师费，损害赔偿费，政府罚款费和其他侵权赔偿费。服务公司。
+Party b discloses its personal information, such as contact information or postal address. Please protect your personal information and provide it to others only if necessary. If you find that your personal information is leaked, especially the user name and password of the app are leaked, please contact the customer service immediately so that the app can take corresponding measures.
